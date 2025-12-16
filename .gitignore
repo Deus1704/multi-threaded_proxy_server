@@ -1,0 +1,7 @@
+# Compiled binaries
+proxy3
+proxy4
+proxy5
+test_cache
+benchmark
+*.o
