@@ -2,6 +2,12 @@
 
 A progressive implementation of a high-performance TCP/HTTP proxy server in C++.
 
+
+## System Design
+
+<img src="sys_design.png" alt="Final Architecture" style="max-width: 100%; height: auto;"/>
+
+
 ## Architecture Evolution
 
 ```
