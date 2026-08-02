@@ -5,3 +5,19 @@ proxy5
 test_cache
 benchmark
 *.o
+
+# phase 5 build outputs
+server_base_version
+server_phase2
+server_phase3
+server_phase4
+server_phase5
+origin_server
+concurrency_test
+test_http
+test_lru_cache
+test_lru_cache_tsan
+
+# benchmark run artifacts
+*.log
+RESULTS_raw.txt
